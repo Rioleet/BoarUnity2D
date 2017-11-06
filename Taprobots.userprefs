@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{9EE5BE86-FE4B-D42D-47A9-813D05F37E0C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Menu.cs">
+    <Files>
+      <File FileName="Assets/scripts/Menu.cs" Line="27" Column="35" />
+      <File FileName="Assets/scripts/ParallaxScrolling.cs" Line="11" Column="65" />
+      <File FileName="Assets/scripts/Tap.cs" Line="13" Column="21" />
+      <File FileName="Assets/scripts/MoveNDestroy.cs" Line="23" Column="28" />
+      <File FileName="Assets/scripts/MoveNDestroyback.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/collision.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/timerImage.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/translate.cs" Line="36" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/apple/Taprobots/Assets/scripts/GameTimer.cs" relfile="Assets/scripts/GameTimer.cs" line="149" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Taprobots PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
